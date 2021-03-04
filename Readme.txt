@@ -1,4 +1,4 @@
-Kshitij Khaladkar 1001713442
+Kshitij Khaladkar
 Readme for the code find_route.py
 
 The code uses UCS for uninformed search and A* for informed search
